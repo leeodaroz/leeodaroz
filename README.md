@@ -1,9 +1,9 @@
 <div align="center">
 
 # 👋 Olá, eu sou o Leonardo Daroz
+# 👋 Hi, i am Leonardo Daroz
 
 💻 Desenvolvedor focado em **TOTVS Protheus**, integrações e performance  
-🚀 Apaixonado por resolver problemas com código
 
 </div>
 
