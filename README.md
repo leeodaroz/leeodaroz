@@ -1,19 +1,22 @@
 <div align="center">
-  <h1>🚀 Leonardo Daroz</h1>
-  <p>Desenvolvedor focado em soluções com TOTVS Protheus, integrações e alta performance.</p>
-</div>
 
-<br>
+# 👋 Olá, eu sou o Leonardo Daroz
+
+💻 Desenvolvedor focado em **TOTVS Protheus**, integrações e performance  
+🚀 Apaixonado por resolver problemas com código
+
+</div>
 
 ---
 
-## 💼 Sobre mim
+## 🚀 Sobre mim
 
-- 💻 Desenvolvedor Protheus (ADVPL / TLPP)
-- 🔗 Especialista em integrações REST / SOAP
-- 📊 Experiência com SmartView e relatórios
-- 🗄️ Forte atuação com SQL Server (queries complexas)
-- ⚙️ Customizações e performance em ambientes Protheus
+- 🔹 Desenvolvimento com **ADVPL / TLPP**
+- 🔹 Integrações **REST / SOAP**
+- 🔹 Experiência com **SmartView / TReports**
+- 🔹 Forte atuação com **SQL Server**
+- 🔹 Customizações e performance em Protheus
+- 🔹 Automação de processos e regras de negócio
 
 ---
 
@@ -33,30 +36,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <div align="center">
 
-<a href="#">
-  <img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=leeodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&ring_color=4c7fac"/>
-</a>
+<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=leoodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&ring_color=4c7fac"/>
 
-<a href="#">
-  <img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=leeodaroz&theme=dark&exclude_repo=github-readme-stats&hide=XSLT,Vue,Roff,Pascal,SCSS,Java,Scheme&langs_count=8&layout=compact"/>
-</a>
+<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=leoodaroz&layout=compact&theme=dark&count_private=true"/>
 
 </div>
 
 ---
 
-## 🚀 Áreas de atuação
+## 💼 O que eu faço
 
-- ✔️ Desenvolvimento ADVPL / TLPP
-- ✔️ Integrações com APIs externas
-- ✔️ Automação de processos
-- ✔️ Relatórios SmartView / TReports
-- ✔️ Otimização de queries SQL
-- ✔️ Customizações Protheus
+- ✔️ Desenvolvimento de rotinas no Protheus
+- ✔️ Integração com APIs externas
+- ✔️ Otimização de queries e performance
+- ✔️ Criação de relatórios personalizados
+- ✔️ Automação de processos empresariais
+
+---
+
+## 📌 Destaques
+
+- 🔧 Integração com APIs REST (Correios / serviços externos)
+- 📊 Relatórios SmartView customizados
+- ⚙️ Rotinas ADVPL com alta performance
+- 🔗 Integrações com Fluig e WebServices
 
 ---
 
@@ -64,18 +71,16 @@
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/leonardo-daroz-domeneghetti-b03366217/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-daroz-domeneghetti-b03366217/)
 
-<a href="mailto:leodarozd@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leodarozd@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>"Código limpo, integração eficiente e performance fazem a diferença."</i>
+
+💡 *"Código limpo, integração eficiente e performance fazem a diferença."*
+
 </div>
