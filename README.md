@@ -40,9 +40,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=leoodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&ring_color=4c7fac"/>
+<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=leeodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&ring_color=4c7fac"/>
 
-<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=leoodaroz&layout=compact&theme=dark&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=leeodaroz&layout=compact&theme=dark&count_private=true"/>
 
 </div>
 
