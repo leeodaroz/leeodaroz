@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Olá, eu sou o Leonardo Daroz
-# 👋 Hi, i am Leonardo Daroz
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:000000&height=180&section=header&text=Leonardo%20Daroz&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-💻 Desenvolvedor focado em **TOTVS Protheus**, integrações e performance  
+<img src="https://readme-typing-svg.herokuapp.com/?color=1E90FF&size=24&center=true&vCenter=true&width=800&lines=Desenvolvedor+TOTVS+Protheus;ADVPL+%7C+TLPP+%7C+SQL+Server;Integra%C3%A7%C3%B5es+REST+e+SOAP;SmartView+%7C+TReports+%7C+Fluig" />
 
 </div>
 
@@ -31,6 +30,7 @@
 ![SOAP](https://img.shields.io/badge/SOAP-6DB33F?style=for-the-badge)
 ![Fluig](https://img.shields.io/badge/Fluig-FF6A00?style=for-the-badge)
 ![SmartView](https://img.shields.io/badge/SmartView-1E90FF?style=for-the-badge)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 </div>
 
@@ -40,9 +40,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=leeodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&ring_color=4c7fac"/>
+<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api?username=leoodaroz&show_icons=true&theme=dark&count_private=true&include_all_commits=true&ring_color=4c7fac"/>
 
-<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=leeodaroz&layout=compact&theme=dark&count_private=true"/>
+<img height="180em" src="https://github-readme-stats-lime-kappa.vercel.app/api/top-langs/?username=leoodaroz&layout=compact&theme=dark&count_private=true"/>
 
 </div>
 
@@ -55,15 +55,17 @@
 - ✔️ Otimização de queries e performance
 - ✔️ Criação de relatórios personalizados
 - ✔️ Automação de processos empresariais
+- ✔️ Análise e melhoria de processos sistêmicos
 
 ---
 
 ## 📌 Destaques
 
-- 🔧 Integração com APIs REST (Correios / serviços externos)
+- 🔧 Integrações com APIs REST
 - 📊 Relatórios SmartView customizados
-- ⚙️ Rotinas ADVPL com alta performance
+- ⚙️ Rotinas ADVPL com foco em performance
 - 🔗 Integrações com Fluig e WebServices
+- 🗄️ Queries SQL Server para relatórios gerenciais
 
 ---
 
@@ -80,6 +82,8 @@
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1E90FF&height=120&section=footer"/>
 
 💡 *"Código limpo, integração eficiente e performance fazem a diferença."*
 
